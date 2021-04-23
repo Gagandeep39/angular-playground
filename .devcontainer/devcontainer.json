@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Alpine with VueJS",
+  "name": "Node.js Alpine with Angular",
   "build": {
     "dockerfile": "Dockerfile"
   },
@@ -16,7 +16,7 @@
     "edwardhjp.vscode-author-generator",
     "oderwat.indent-rainbow",
     "yzhang.markdown-all-in-one",
-    "octref.vetur",
+    "angular.ng-template",
     "mutantdino.resourcemonitor",
     "eamodio.gitlens"
   ],
